@@ -1,10 +1,12 @@
-# flutter_widgets_demo
-WidgetsPractice Flutter Project
-Overview
+# WidgetsPractice Flutter Project
+
+### Overview
+
 This repository contains a Flutter project named "WidgetsPractice" that serves as a practical exploration of the concepts of Stateless and Stateful Widgets in Flutter. The project includes the implementation of both Stateless and Stateful Widgets, a widget tree with multiple levels, styling for enhanced visual appeal, and thorough testing.
 
-Project Structure
-Flutter Project Creation:
+### Project Structure
+
+#### Flutter Project Creation:
 
 A new Flutter project was initiated with the name "WidgetsPractice."
 Stateless Widget:
