@@ -1,16 +1,30 @@
-# flutter_widgets_demo
+# WidgetsPractice
 
-A new Flutter project.
+Welcome to WidgetsPractice, a Flutter project that explores Stateless and Stateful Widgets, widget tree creation, styling, and testing.
 
-## Getting Started
+## Project Structure
 
-This project is a starting point for a Flutter application.
+- **lib/main.dart:**
+  - Contains the `HomePage` widget where both Stateless and Stateful Widgets are used.
+  - Implements a simple app layout with a greeting icon, a text display area, a text input field, and a "Post" button.
+## Features Implemented
 
-A few resources to get you started if this is your first Flutter project:
+1. **Greeting Icon:**
+   - An icon in the top-right corner, representing a coffee cup.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Text Display Area:**
+   - A styled text display area that shows the entered text.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Text Input Field:**
+   - A text input field with a clear button.
+
+4. **"Post" Button:**
+   - A button that posts the entered text to the display area.
+
+## Running the Project
+
+To run the project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/WidgetsPractice.git
