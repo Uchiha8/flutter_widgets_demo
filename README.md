@@ -7,7 +7,10 @@ Welcome to WidgetsPractice, a Flutter project that explores Stateless and Statef
 - **lib/main.dart:**
   - Contains the `HomePage` widget where both Stateless and Stateful Widgets are used.
   - Implements a simple app layout with a greeting icon, a text display area, a text input field, and a "Post" button.
-  ![My Image](lib/images/demo.jpg)
+ 
+  
+## View
+ ![My Image](lib/images/demo.jpg)
 
 ## Features Implemented
 
