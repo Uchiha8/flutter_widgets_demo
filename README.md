@@ -7,18 +7,19 @@ Welcome to WidgetsPractice, a Flutter project that explores Stateless and Statef
 - **lib/main.dart:**
   - Contains the `HomePage` widget where both Stateless and Stateful Widgets are used.
   - Implements a simple app layout with a greeting icon, a text display area, a text input field, and a "Post" button.
+## Features Implemented
 
-- **lib/stateless_greeting_widget.dart:**
-  - Currently not implemented. This widget is intended to display a greeting message.
+1. **Greeting Icon:**
+   - An icon in the top-right corner, representing a coffee cup.
 
-- **lib/stateful_counter_widget.dart:**
-  - Currently not implemented. This widget is intended to display a counter with a button to increment it.
+2. **Text Display Area:**
+   - A styled text display area that shows the entered text.
 
-- **lib/widget_tree.dart:**
-  - Currently not implemented. This file is intended to create a widget tree using Stateless and Stateful Widgets.
+3. **Text Input Field:**
+   - A text input field with a clear button.
 
-- **lib/styles.dart:**
-  - Contains styling configurations for widgets.
+4. **"Post" Button:**
+   - A button that posts the entered text to the display area.
 
 ## Running the Project
 
